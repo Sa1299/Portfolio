@@ -28,12 +28,12 @@ header{
 }
 
 header.sticky{
-    background-color: #131415;
+    background-color: #f6f8fb;
     padding: 10px 200px;
 }
 
 header .brand{
-    color: white;
+    color: black;
     font-size: 1.8em;
     font-weight: 700;
     text-transform: uppercase;
@@ -45,7 +45,7 @@ header .navigation{
 }
 
 header .navigation a{
-    color: white;
+    color: black;
     font-size: 1em;
     text-decoration: none;
     font-weight: 500;
@@ -641,6 +641,7 @@ section{
         margin: 0 20px;
         cursor: pointer;
         transition: 0.3s ease;
+        
     }
 
     .menu-btn.active{
