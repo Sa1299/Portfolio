@@ -67,14 +67,14 @@ section{
 .main {
     position: relative;
     width: 100%;
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     align-items: center;
     background-image: url(Image/s1.jpg);
     background-size: cover;
     background-position: top center; /* Or adjust to other positions like center or bottom */
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: scroll;
 }
 
 
