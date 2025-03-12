@@ -83,7 +83,7 @@ section{
 }
 
 .main .content h2{
-    color: rgb(12, 11, 11);
+    color: white;
     font-size: 2em;
     font-weight: 500;
 }
@@ -157,7 +157,7 @@ section{
 }
 
 .media-icons a{
-    color: rgb(39, 24, 3);
+    color: white;
     font-size: 25px;
     margin-right: 30px;
 }
